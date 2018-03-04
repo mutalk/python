@@ -1,7 +1,12 @@
 Python implementation of MUTALK spec
 ====================================
+.. image:: https://img.shields.io/github/license/mutalk/python.svg   :alt: GitHub license   :target: https://github.com/mutalk/python/blob/master/LICENSE
 
-`specification <http://github.com/mutalk/spec>` _.
+.. image:: https://img.shields.io/pypi/v/mutalk.svg   :alt: PyPI
+
+.. image:: https://img.shields.io/pypi/pyversions/mutalk.svg   :alt: PyPI - Python Version
+
+specification <http://github.com/mutalk/spec>
 
 Features:
 
