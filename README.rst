@@ -1,6 +1,7 @@
-# Python implementation of MUTALK spec
+Python implementation of MUTALK spec
+====================================
 
-[specification](http://github.com/mutalk/spec)
+`specification <http://github.com/mutalk/spec>` _.
 
 Features:
 
